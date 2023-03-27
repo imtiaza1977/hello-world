@@ -36,8 +36,9 @@
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
         <configuration>
-          <source>1.6</source>
-          <target>1.6</target>
+          <executable>C:\Program Files\Java\jdk-17.0.6\bin\javac.exe</executable>
+          <source>1.8</source>
+          <target>1.8</target>
         </configuration>
       </plugin>
 
