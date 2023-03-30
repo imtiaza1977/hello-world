@@ -9,7 +9,7 @@
       </style>
     </head>
   <body>
-    <h1> Welcome to AWS Department NETSOL Technologies LTD !!! </h1>
+    <h1> Welcome to AWS Department NETSOL Technologies !!! </h1>
     <p> Thanks to Sir, Kashif !!! </p>
 </body>
   </html>
