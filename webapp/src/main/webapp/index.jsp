@@ -3,7 +3,7 @@
     <title> This is My First Page </title>
     <style>
       body {
-        background: Grey;
+        background: Maroon;
         color: white;
       }
       </style>
