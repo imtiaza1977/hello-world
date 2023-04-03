@@ -4,7 +4,7 @@
     <style>
       body {
         background: maroon;
-        color: black;
+        color: yellow;
       }
       </style>
     </head>
